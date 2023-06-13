@@ -1,5 +1,5 @@
-![](https://visitor-badge.glitch.me/badge?page_id=github.com/mamun-sec) ![status](https://img.shields.io/badge/status-up-brightgreen)<br>
-<code><a href="https://www.linkedin.com/in/mamun-infosec/">Linkedin</a></code> <code><a href="mailto:ceo@intarna.com">Email</a></code> <code><a href="https://intarna.com/blog/">Blog</a></code> <code><a href="https://medium.com/@alfalahum">Medium</a></code>
+![](https://komarev.com/ghpvc/?username=mamun-sec&color=blue&label=Total+Recent+Views) ![status](https://img.shields.io/badge/status-up-brightgreen)<br>
+<code><a href="https://www.linkedin.com/in/mamun-infosec/">Linkedin</a></code> <code><a href="mailto:ceo@intarna.com">Email</a></code> <code><a href="https://medium.com/@alfalahum">Blog</a></code> <code><a href="https://medium.com/@alfalahum">Medium</a></code>
 
 <h1>:white_square_button: Decap</h1>
 <h4>Scan PCAP Files for Security Issues</h4>
